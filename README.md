@@ -18,7 +18,7 @@ URL defination -
 2. /product/saveProducts - upsert List of products
 3. /product/all - get all products from MongoDB
 4. /product/{id} - get product by product id from DB
-5. /product/name - get product by name from the DB
+5. /product/name - get product by name from the DB (pass name as request parameter. Example - /product/name?name=Shirt)
 6. /product/{id} - delete product by id from the DB
 
 Sample request for entiry Product -
