@@ -5,10 +5,10 @@ Pre-requisites -
 1. Mongo DB should be installed in your system. You can install MongoDB from the MongoDB official website.
 
 About the project-
-Entity - This project will have an entity "Product". This will be treated as document in MongoDB
-Repository - Extends MongoDBRepository. User can write custom methods in this class 
-Service - Created a service class to perform CRUD operations
-Resource - Exposed the urls to perform CRUD operation
+1. Entity - This project will have an entity "Product". This will be treated as document in MongoDB
+2. Repository - Extends MongoDBRepository. User can write custom methods in this class 
+3. Service - Created a service class to perform CRUD operations
+4. Resource - Exposed the urls to perform CRUD operation
 
 Base URI-
 http://localhost:8080
