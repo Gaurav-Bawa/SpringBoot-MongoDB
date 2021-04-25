@@ -1,4 +1,4 @@
-package com.test.mongodb;
+package com.test.mongodb.service;
 
 import com.test.mongodb.entity.Product;
 import com.test.mongodb.entity.ProductResponse;

@@ -1,6 +1,6 @@
 package com.test.mongodb.resource;
 
-import com.test.mongodb.ProductService;
+import com.test.mongodb.service.ProductService;
 import com.test.mongodb.entity.Product;
 import com.test.mongodb.entity.ProductResponse;
 import org.springframework.beans.factory.annotation.Autowired;
